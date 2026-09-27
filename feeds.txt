@@ -1,0 +1,10 @@
+# 取得する RSS/Atom フィード（1行1URL、# 以降はコメント）
+# 日本語
+https://www3.nhk.or.jp/rss/news/cat5.xml                 # NHK 経済
+https://news.yahoo.co.jp/rss/topics/business.xml         # Yahoo!ニュース 経済
+https://assets.wor.jp/rss/rdf/nikkei/economy.rdf         # 日経 経済（wor.jp 経由）
+https://assets.wor.jp/rss/rdf/reuters/top.rdf            # ロイター トップ（wor.jp 経由）
+# 英語
+https://feeds.bloomberg.com/markets/news.rss             # Bloomberg Markets
+https://www.cnbc.com/id/100003114/device/rss/rss.html    # CNBC Top News
+https://feeds.content.dowjones.io/public/rss/mw_topstories  # MarketWatch
